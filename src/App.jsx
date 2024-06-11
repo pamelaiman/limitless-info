@@ -20,7 +20,7 @@ function App(){
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerPolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p className="quote"> `I was blind, but now I see.` - Eddie Morra (played by Bradley Cooper)</p>
-    <img src='./limitless.png' alt="Image of man on laptop with letters and numbers around him" />
+    <img src='limitless.png' alt="Image of man on laptop with letters and numbers around him" />
       </div>
   )
 }
